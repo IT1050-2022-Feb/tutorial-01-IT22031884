@@ -11,6 +11,7 @@ int main() {
 
   printf("Enter mark 1 : ");
   scanf("%d", &m1);
+   
   printf("\nEnter mark 2 : ");
   scanf("%d", &m2);
 
